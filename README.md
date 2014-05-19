@@ -4,7 +4,7 @@ RSpec vs Cucumber
 Why use cucumber when you get all you need from rspec?
 ------------------------------------------------------
 
-Basically I'm just trying to show that we can get the same otucome from using rspec and capybara
+Basically I'm just trying to show that we can get the same outcome from using rspec and capybara
 that we can from using cucumber without all the syntactic sugar.  From a developer point of view,
 I don't see a need to have this non-programmer abstraction, gherkin, which requires more code with
 no extra benefits.
